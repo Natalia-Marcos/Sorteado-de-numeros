@@ -23,7 +23,7 @@ Bem-vindo ao **Sorteador de Números**! Este projeto foi desenvolvido para sorte
 
 ## 📸 Screenshot
 
-![Sorteador de Números]()
+![Sorteador de Números](https://github.com/user-attachments/assets/97738ad7-9069-4db0-a549-604cf8d286a2)
 
 
 ## 📝 Observações
